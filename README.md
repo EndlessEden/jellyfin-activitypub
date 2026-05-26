@@ -5,9 +5,9 @@
 
 A decentralized, privacy-first federation framework for Jellyfin. This plugin implements the W3C standard ActivityPub protocol directly into the Jellyfin server context, turning isolated instances into an interoperable social media network. Share libraries, follow cross-server friends, and sync playback history across the Fediverse without relying on a centralized corporate cloud.
 
-> ⚠️ **Status: Phase 0 (Implementing Proof of Concept; see: https://github.com/EndlessEden/jellyfin-activitypub/issues/1)
+> ⚠️ ** Status: Phase 0 (Implementing Proof of Concept; see: https://github.com/EndlessEden/jellyfin-activitypub/issues/1) **
 >
-> ** Next Stage:  Phase 1 (Proof of Concept)**  
+> ** Next Stage:  Phase 1 (Proof of Concept) **  
 > This project is currently in active development & prototyping. It is built entirely within Jellyfin's decoupled plugin constraints, utilizing localized virtual media namespaces and asynchronous message queues to safeguard core system databases. Aim
 
 ---
